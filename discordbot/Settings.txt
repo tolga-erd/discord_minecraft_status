@@ -1,0 +1,4 @@
+{"ip": "Oyna.MilasMC.Com",
+"port": 0,
+"channelId": "1180094050708238386"}
+
